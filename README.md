@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # ECC_Project_SkinCancer
 =======
 # Getting Started with Create React App
