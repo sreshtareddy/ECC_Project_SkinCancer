@@ -4,8 +4,8 @@ import './App.css';
 
 // Configure AWS SDK
 AWS.config.update({
-  accessKeyId: 'AKIARI3KUHLBWLDAYJO5',
-  secretAccessKey: 'kcu24KQPMYwaaEXm0Y9WTfJIYX8WAxuvUSddw76Z',
+  accessKeyId: 'your_access_ID',
+  secretAccessKey: 'your_secret_access_key',
   region: 'us-east-2',
 });
 
